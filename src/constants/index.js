@@ -62,6 +62,13 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
+    year: "Nov 2024 - Present",
+    role: "Web Develeoper (Part-Time)",
+    company: "DCB Digitals",
+    description: `Built and optimized company client websites, enhancing functionality and boosting user interaction by 80%`,
+    technologies: ["WordPress", "Breakdance", "Bricks", "Elementor"],
+  },
+  {
     year: "Aug -Nov 2024",
     role: "IT Support Specialist",
     company: "Aces Polytechnic College",
